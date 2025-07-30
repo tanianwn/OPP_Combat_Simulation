@@ -1,4 +1,4 @@
-# Ejercicios - Básicos
+# Commands
 
 Ubíquese en la **carpeta fuente del proyecto** deseado, use:
 
